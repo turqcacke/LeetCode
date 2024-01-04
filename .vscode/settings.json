@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/mnt/d/code/Algo/PythonAlgo/venv/bin/python",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+}
