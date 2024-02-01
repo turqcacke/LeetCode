@@ -19,6 +19,3 @@ class Solution:
                 del nums[i]
             l.append(list(s))
         return l
-
-
-print(Solution().findMatrix([1, 3, 4, 1, 2, 3, 1]))
